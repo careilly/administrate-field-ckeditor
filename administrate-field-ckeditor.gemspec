@@ -1,6 +1,6 @@
 $:.push File.expand_path("../lib", __FILE__)
 
-require File.expand_path(File.join(File.dirname(__FILE__), "administrate/field/ckeditor", 'filename'))
+require File.expand_path(File.join(File.dirname(__FILE__), "administrate/field/ckeditor" ))
 
 
 Gem::Specification.new do |gem|
